@@ -160,6 +160,11 @@ hr
   background-color: grey;
 }
 
+.icon-nav {
+  height: 40px;
+  width: 40px;
+}
+
 footer{
   padding: 10px;
 }
@@ -176,6 +181,15 @@ footer{
   .btn2 {
     height: 300px;
     width: 300px;
+  }
+
+  .nav-link {
+    font-size: 160%;
+  }
+
+  .icon-nav {
+    height: 55px;
+    width: 55px;
   }
 }
 
