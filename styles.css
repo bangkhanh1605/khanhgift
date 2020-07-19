@@ -202,7 +202,7 @@ footer{
   position: relative;
   font-weight: 900;
   font-size: 2em;
-  color: #ff4d4d;
+  color: #f6d743;
 }
 
 .ml6 .text-wrapper {
@@ -223,6 +223,7 @@ footer{
   position: relative;
   font-weight: 900;
   font-size: 180%;
+  color: #f6d743;
 }
 .ml7 .text-wrapper {
   position: relative;
@@ -242,6 +243,7 @@ footer{
   position: relative;
   font-weight: 200;
   font-size: 180%;
+  color: #f6d743;
 }
 
 .ml9 .text-wrapper {
@@ -260,7 +262,7 @@ footer{
 }
 /* .last-animation */
 .ml16 {
-  color: #402d2d;
+  color: #f6d743;
   padding: 40px 0;
   font-weight: 800;
   font-size: 180%;
